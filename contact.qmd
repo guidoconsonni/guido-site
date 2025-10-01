@@ -1,0 +1,8 @@
+---
+title: "Contact"
+format: html
+---
+
+Email: guido.consonni[AT]unicatt.it\
+Department of Statistical Sciences, Università Cattolica del Sacro Cuore\
+Largo Gemelli 1, 20123 Milano, Italy

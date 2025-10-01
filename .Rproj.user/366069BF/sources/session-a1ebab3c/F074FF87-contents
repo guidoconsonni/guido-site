@@ -1,0 +1,60 @@
+---
+title: "Short Bio"
+format: html
+---
+
+::: {.bio}
+
+<div class="lead">
+My expertise is in **Statistics**, with a focus on Bayesian inference and causal reasoning.
+</div>
+
+## Academic Appointments
+
+**Università Cattolica del Sacro Cuore (Milan)**
+
+- 2024–present: Adjunct Professor (Statistical Inference)  
+- 2011–2024: Full Professor of Statistics  
+- 2019–2024: Head, Department of Statistical Sciences  
+
+
+**Previous Institutions**
+
+- 1990–2011: Full Professor of Statistics, Università di Pavia  
+- 1987–1990: Associate Professor of Statistics, Università L. Bocconi, Milan
+
+---
+
+## Scientific Research
+
+**Main topics:** Bayesian statistics; causal inference and AI; graphical models; Bayesian experimental design; reproducible research.
+
+Author of 50+ publications in peer-reviewed journals.
+
+**ORCID:** [0000-0002-1252-5926](https://orcid.org/0000-0002-1252-5926)
+
+---
+
+## Teaching
+
+My teaching experience spans undergraduate, graduate, and doctoral courses in Statistics. I have also held leadership roles as coordinator of master’s-level programs and as a member of a PhD steering committee.
+
+---
+
+## Honours
+
+- Fellow, International Society for Bayesian Analysis  
+- Elected Member, International Statistical Institute
+
+---
+
+## Scientific Societies
+
+- Royal Statistical Society  
+- Institute of Mathematical Statistics  
+- American Statistical Association  
+- International Statistical Institute  
+- International Society for Bayesian Analysis  
+- Società Italiana di Statistica
+
+:::

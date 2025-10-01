@@ -1,0 +1,47 @@
+/* Make image round and add spacing */
+img[alt="Guido Consonni"] {
+  border-radius: 50%;
+  margin: 0 1rem 1rem 0;
+}
+
+/* Simple button style for links with .btn class */
+a.btn {
+   margin-right: 0.5rem;
+  padding: 0.5rem 0.9rem;
+  border: 1px solid #ccc;
+  border-radius: 0.5rem;
+  text-decoration: none;
+  display: inline-block;
+}
+
+/* Optional hover */
+a.btn:hover {
+  text-decoration: underline;
+}
+
+.bio h2 {
+  margin-top: 2rem;
+  padding-top: 0.75rem;
+  border-top: 1px solid #eee;
+}
+.bio ul, .bio p { margin-bottom: 0.75rem; }
+
+/* Compact spacing for bullet points site-wide */
+main li { 
+  margin-bottom: 0.4rem; 
+}
+/* Compact inline reference cluster */
+.refs {
+  font-size: 0.95rem;
+  color: #555;
+  margin-left: 0.25rem;
+}
+.refs a {
+  text-decoration: none;
+}
+
+/* Optional: reduce vertical gaps between project bullets on Research page */
+.research li {
+  margin-bottom: 0.35rem;
+}
+

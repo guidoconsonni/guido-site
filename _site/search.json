@@ -1,0 +1,177 @@
+[
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Courses I have taught or assisted:\n\nCourse A (Year, Institution)\nCourse B (Year, Institution)"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Guido Consonni",
+    "section": "",
+    "text": "Formerly Professor of Statistics at Università Cattolica del Sacro Cuore (retired November 2024), where I currently serve as Adjunct Professor of Statistical Inference.\n\nCV Google Scholar"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Email: guido.consonni[AT]unicatt.it\nDepartment of Statistical Sciences, Università Cattolica del Sacro Cuore\nLargo Gemelli 1, 20123 Milano, Italy"
+  },
+  {
+    "objectID": "index.knit.html",
+    "href": "index.knit.html",
+    "title": "Home",
+    "section": "",
+    "text": "My Photo\n\n\nWelcome! I am a researcher in Statistics.\nThis is my personal academic website.\nDownload my CV\n\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Topic 1\nTopic 2"
+  },
+  {
+    "objectID": "publications.html#research-topics",
+    "href": "publications.html#research-topics",
+    "title": "Publications",
+    "section": "",
+    "text": "Topic 1\nTopic 2"
+  },
+  {
+    "objectID": "publications.html#current-projects",
+    "href": "publications.html#current-projects",
+    "title": "Publications",
+    "section": "Current Projects",
+    "text": "Current Projects\n\nProject title and short description"
+  },
+  {
+    "objectID": "publications.html#recent-publications",
+    "href": "publications.html#recent-publications",
+    "title": "Publications",
+    "section": "Recent Publications",
+    "text": "Recent Publications\n\n“Title of Paper”, Journal, Year. Link\n…"
+  },
+  {
+    "objectID": "publications.html#full-list-of-publications-pdf",
+    "href": "publications.html#full-list-of-publications-pdf",
+    "title": "Publications",
+    "section": "Full list of publications (PDF)",
+    "text": "Full list of publications (PDF)"
+  },
+  {
+    "objectID": "shortbio.html",
+    "href": "shortbio.html",
+    "title": "Short Bio",
+    "section": "",
+    "text": "My expertise is in Statistics, with a focus on Bayesian inference and causal reasoning.\n\n\n\nUniversità Cattolica del Sacro Cuore (Milan)\n\n2024–present: Adjunct Professor (Statistical Inference)\n\n2011–2024: Full Professor of Statistics\n\n2019–2024: Head, Department of Statistical Sciences\n\nPrevious Institutions\n\n1990–2011: Full Professor of Statistics, Università di Pavia\n\n1987–1990: Associate Professor of Statistics, Università L. Bocconi, Milan\n\n\n\n\n\nMain topics: Bayesian statistics; causal inference and AI; graphical models; Bayesian experimental design; reproducible research.\nAuthor of 50+ publications in peer-reviewed journals.\nORCID: 0000-0002-1252-5926\n\n\n\n\nMy teaching experience spans undergraduate, graduate, and doctoral courses in Statistics. I have also held leadership roles as coordinator of master’s-level programs and as a member of a PhD steering committee.\n\n\n\n\n\nFellow, International Society for Bayesian Analysis\n\nElected Member, International Statistical Institute\n\n\n\n\n\n\nRoyal Statistical Society\n\nInstitute of Mathematical Statistics\n\nAmerican Statistical Association\n\nInternational Statistical Institute\n\nInternational Society for Bayesian Analysis\n\nSocietà Italiana di Statistica"
+  },
+  {
+    "objectID": "shortbio.html#international-statistical-institute-elected-member",
+    "href": "shortbio.html#international-statistical-institute-elected-member",
+    "title": "Short Bio",
+    "section": "International Statistical Institute: elected member",
+    "text": "International Statistical Institute: elected member\nSCIENTIFIC SOCIETIES (membership)\nRoyal Statistical Society, Institute of Mathematical Statistics, American Statistical Association, International Statistical Institute, International Society for Bayesian Analysis, Società Italiana di Statistica."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Causal Discovery. How do we learn a causal model? Refs: Biometrics (2024) • Biometrics (2021)\nCausal Artificial Intelligence. Causal reasoning is key to enhance general AI; DAGs provide a practical framework. Tutorial (PDF)\nReplication Studies. Was a beneficial treatment effect truly reproduced in follow-up studies? Refs: TEST (2025) • Psychological Methods (2024)\nBayesian Experimental Design. Using priors/Bayes factors to plan studies for model discrimination and power. Refs: Statistical Science (2024) • TEST (2023)\nBayesian Mendelian Randomization under Heterogeneity. Cluster heterogeneous causal effects and handle pleiotropy with robust priors."
+  },
+  {
+    "objectID": "research.html#research-topics",
+    "href": "research.html#research-topics",
+    "title": "Research",
+    "section": "",
+    "text": "Topic 1\nTopic 2"
+  },
+  {
+    "objectID": "research.html#current-projects",
+    "href": "research.html#current-projects",
+    "title": "Research",
+    "section": "",
+    "text": "Causal Discovery. How do we learn a causal model? Refs: Biometrics (2024) • Biometrics (2021)\nCausal Artificial Intelligence. Causal reasoning is key to enhance general AI; DAGs provide a practical framework. Tutorial (PDF)\nReplication Studies. Was a beneficial treatment effect truly reproduced in follow-up studies? Refs: TEST (2025) • Psychological Methods (2024)\nBayesian Experimental Design. Using priors/Bayes factors to plan studies for model discrimination and power. Refs: Statistical Science (2024) • TEST (2023)\nBayesian Mendelian Randomization under Heterogeneity. Cluster heterogeneous causal effects and handle pleiotropy with robust priors."
+  },
+  {
+    "objectID": "research.html#recent-publications",
+    "href": "research.html#recent-publications",
+    "title": "Research",
+    "section": "Recent Publications",
+    "text": "Recent Publications\n\n“Title of Paper”, Journal, Year. Link\n…"
+  },
+  {
+    "objectID": "research.html#full-list-of-publications-pdf",
+    "href": "research.html#full-list-of-publications-pdf",
+    "title": "Research",
+    "section": "Full list of publications (PDF)",
+    "text": "Full list of publications (PDF)"
+  },
+  {
+    "objectID": "shortbio.html#royal-statistical-society-institute-of-mathematical-statistics-american-statistical-association-international-statistical-institute-international-society-for-bayesian-analysis-società-italiana-di-statistica.",
+    "href": "shortbio.html#royal-statistical-society-institute-of-mathematical-statistics-american-statistical-association-international-statistical-institute-international-society-for-bayesian-analysis-società-italiana-di-statistica.",
+    "title": "Short Bio",
+    "section": "Royal Statistical Society, Institute of Mathematical Statistics, American Statistical Association, International Statistical Institute, International Society for Bayesian Analysis, Società Italiana di Statistica.",
+    "text": "Royal Statistical Society, Institute of Mathematical Statistics, American Statistical Association, International Statistical Institute, International Society for Bayesian Analysis, Società Italiana di Statistica."
+  },
+  {
+    "objectID": "shortbio.html#academic-appointments",
+    "href": "shortbio.html#academic-appointments",
+    "title": "Short Bio",
+    "section": "",
+    "text": "Università Cattolica del Sacro Cuore (Milan)\n\n2024–present: Adjunct Professor (Statistical Inference)\n\n2011–2024: Full Professor of Statistics\n\n2019–2024: Head, Department of Statistical Sciences\n\nPrevious Institutions\n\n1990–2011: Full Professor of Statistics, Università di Pavia\n\n1987–1990: Associate Professor of Statistics, Università L. Bocconi, Milan"
+  },
+  {
+    "objectID": "shortbio.html#scientific-research",
+    "href": "shortbio.html#scientific-research",
+    "title": "Short Bio",
+    "section": "",
+    "text": "Main topics: Bayesian statistics; causal inference and AI; graphical models; Bayesian experimental design; reproducible research.\nAuthor of 50+ publications in peer-reviewed journals.\nORCID: 0000-0002-1252-5926"
+  },
+  {
+    "objectID": "shortbio.html#teaching",
+    "href": "shortbio.html#teaching",
+    "title": "Short Bio",
+    "section": "",
+    "text": "My teaching experience spans undergraduate, graduate, and doctoral courses in Statistics. I have also held leadership roles as coordinator of master’s-level programs and as a member of a PhD steering committee."
+  },
+  {
+    "objectID": "shortbio.html#honours",
+    "href": "shortbio.html#honours",
+    "title": "Short Bio",
+    "section": "",
+    "text": "Fellow, International Society for Bayesian Analysis\n\nElected Member, International Statistical Institute"
+  },
+  {
+    "objectID": "shortbio.html#scientific-societies",
+    "href": "shortbio.html#scientific-societies",
+    "title": "Short Bio",
+    "section": "",
+    "text": "Royal Statistical Society\n\nInstitute of Mathematical Statistics\n\nAmerican Statistical Association\n\nInternational Statistical Institute\n\nInternational Society for Bayesian Analysis\n\nSocietà Italiana di Statistica"
+  },
+  {
+    "objectID": "research.html#selected-resources",
+    "href": "research.html#selected-resources",
+    "title": "Research",
+    "section": "Selected Resources",
+    "text": "Selected Resources\n\n\n\n\n\n\nTutorials & Notes\n\n\n\n\nFrom Statistical to Causal Models (PDF)"
+  },
+  {
+    "objectID": "research.html#publications",
+    "href": "research.html#publications",
+    "title": "Research",
+    "section": "Publications",
+    "text": "Publications\nFor the complete list, download the PDF:\nFull list of publications (PDF)"
+  },
+  {
+    "objectID": "shortbio.html#honors",
+    "href": "shortbio.html#honors",
+    "title": "Short Bio",
+    "section": "",
+    "text": "Fellow, International Society for Bayesian Analysis\n\nElected Member, International Statistical Institute"
+  }
+]

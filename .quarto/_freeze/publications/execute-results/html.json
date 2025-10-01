@@ -1,0 +1,17 @@
+{
+  "hash": "6b86027eb7a3ba336d743f27895b98a3",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Publications\"\nformat: html\n---\n## Research Topics\n\n- Topic 1\n- Topic 2\n\n## Current Projects\n\n- Project title and short description\n\n## Recent Publications\n\n- \"Title of Paper\", *Journal*, Year. [Link](#)\n- ...\n\n[Full list of publications (PDF)](docs/2022-12-publications.pdf)\n---\n\nAbout this site\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n\n",
+    "supporting": [
+      "publications_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "hash": "21d050c1c161be53e9a3be69daff66c2",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Home\"\nformat: html\n---\n\n\n![My Photo](docs/2023-february_light.jpg){width=150px}\n\n\nWelcome! I am a researcher in Statistics.  \nThis is my personal academic website.\n\n[Download my CV](docs/2024-09-CV.pdf)\n\n---\n\nThis is a Quarto website.\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
