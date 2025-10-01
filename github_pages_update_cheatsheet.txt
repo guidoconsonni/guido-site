@@ -1,0 +1,24 @@
+==============================
+ Quarto Website Update Cheatsheet
+==============================
+
+1. Make edits in your .qmd files.
+
+2. Preview locally in RStudio:
+   Click "Render Website"
+
+3. In the RStudio Terminal, run:
+
+   git add .
+   git commit -m "Update site content"
+   git push
+   quarto publish gh-pages
+
+4. Wait 1–2 minutes, then refresh:
+   https://guidoconsonni.github.io/guido-site/
+
+Tips:
+- main = source files
+- gh-pages = published site
+- If changes don’t show, hard refresh (Ctrl+F5)
+==============================
