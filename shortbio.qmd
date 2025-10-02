@@ -6,7 +6,7 @@ format: html
 ::: {.bio}
 
 <div class="lead">
-My expertise is in **Statistics**, with a focus on Bayesian inference and causal reasoning.
+I have a long-standing activity in Bayesian methodology as a principled framework for learning from data. I am also engaged in causal reasoning to address real-world problems.
 </div>
 
 ## Academic Appointments
@@ -14,7 +14,7 @@ My expertise is in **Statistics**, with a focus on Bayesian inference and causal
 **Università Cattolica del Sacro Cuore (Milan)**
 
 - 2024–present: Adjunct Professor (Statistical Inference)  
-- 2011–2024: Full Professor of Statistics  
+- 2011–2024: Full Professor of Statistics (retired November 1, 2024) 
 - 2019–2024: Head, Department of Statistical Sciences  
 
 
@@ -27,11 +27,7 @@ My expertise is in **Statistics**, with a focus on Bayesian inference and causal
 
 ## Scientific Research
 
-**Main topics:** Bayesian statistics; graphical models; causal inference; Bayesian experimental design; replication studies; causal Artificial Intelligence.
-
-Author of 50+ papers in peer-reviewed journals.
-
-**ORCID:** [0000-0002-1252-5926](https://orcid.org/0000-0002-1252-5926)
+Over the years I have worked on many aspects of **Bayesian statistics**, from priors, model choice, and hierarchical models to **graphical models** and Bayesian networks. More recently my research has focused on **experimental design**, **replication studies** and especially **causal inference** based on Directed Acyclic Graphs. I am also keenly interested in leveraging causal reasoning to foster more robust and explainable AI systems.
 
 ---
 

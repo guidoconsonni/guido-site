@@ -11,13 +11,13 @@ format: html
 - *Causal Artificial Intelligence.* Causal reasoning is key to enhance general AI; DAGs provide a practical framework.
   [Tutorial (PDF)](docs/2025-09-SISBAYES2025.pdf){.refs}
 
-- *Replication Studies.* Was a beneficial treatment effect truly reproduced in follow-up studies?
+- *Replication Studies.* Was a treatment effect truly reproduced in follow-up studies?
   [Refs:](#){.refs} [TEST (2025)](https://link.springer.com/article/10.1007/s11749-025-00985-7) • [Psychological Methods (2024)](https://psycnet.apa.org/fulltext/2023-97877-001.html)
 
-- *Bayesian Experimental Design.* Using priors/Bayes factors to plan studies for model discrimination and power.
+- *Bayesian Experimental Design.* Using priors/Bayes factors to plan studies for causal discovery and model discrimination.
   [Refs:](#){.refs} [Statistical Science (2024)](https://projecteuclid.org/journals/statistical-science/volume-39/issue-2/Bayesian-Sample-Size-Determination-for-Causal-Discovery/10.1214/23-STS905.short) • [TEST (2023)](https://link.springer.com/article/10.1007/s11749-023-00916-4)
 
-- *Bayesian Mendelian Randomization under Heterogeneity.* Cluster heterogeneous causal effects and handle pleiotropy with robust priors.
+- *Bayesian Mendelian Randomization under Heterogeneity.* Cluster heterogeneous causal effects and handle pleiotropy with robust priors. (Sorry no paper, yet)
   <!-- Add refs later the same way:
   [Refs:](#){.refs} [Paper 1](#) • [Paper 2](#)
   -->

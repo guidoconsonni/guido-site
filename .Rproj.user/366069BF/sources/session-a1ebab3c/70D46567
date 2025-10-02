@@ -3,24 +3,24 @@
     "path": "C:/quarto-guido-site/guido-site/index.qmd",
     "project_path": "index.qmd",
     "type": "quarto_markdown",
-    "hash": "0",
+    "hash": "2473773270",
     "contents": "",
-    "dirty": true,
+    "dirty": false,
     "created": 1759249042818.0,
     "source_on_save": false,
     "relative_order": 2,
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "5,28",
-        "scrollLine": "0"
+        "cursorPosition": "8,10",
+        "scrollLine": "6"
     },
     "folds": "",
-    "lastKnownWriteTime": 1759135505,
+    "lastKnownWriteTime": 1759416176,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1759249102431,
+    "last_content_update": 1759416176998,
     "read_only": false,
     "read_only_alternatives": []
 }
