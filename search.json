@@ -11,14 +11,14 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "Causal Discovery. How do we learn a causal model? Refs: Biometrics (2024) • Biometrics (2021)\nCausal Artificial Intelligence. Causal reasoning is key to enhance general AI; DAGs provide a practical framework. Tutorial (PDF)\nReplication Studies. Was a beneficial treatment effect truly reproduced in follow-up studies? Refs: TEST (2025) • Psychological Methods (2024)\nBayesian Experimental Design. Using priors/Bayes factors to plan studies for model discrimination and power. Refs: Statistical Science (2024) • TEST (2023)\nBayesian Mendelian Randomization under Heterogeneity. Cluster heterogeneous causal effects and handle pleiotropy with robust priors."
+    "text": "Causal Discovery. How do we learn a causal model? Refs: Biometrics (2024) • Biometrics (2021)\nCausal Artificial Intelligence. Causal reasoning is key to enhance general AI; DAGs provide a practical framework. Tutorial (PDF)\nReplication Studies. Was a treatment effect truly reproduced in follow-up studies? Refs: TEST (2025) • Psychological Methods (2024)\nBayesian Experimental Design. Using priors/Bayes factors to plan studies for causal discovery and model discrimination. Refs: Statistical Science (2024) • TEST (2023)\nBayesian Mendelian Randomization under Heterogeneity. Cluster heterogeneous causal effects and handle pleiotropy with robust priors. (Sorry no paper, yet)"
   },
   {
     "objectID": "research.html#current-projects",
     "href": "research.html#current-projects",
     "title": "Research",
     "section": "",
-    "text": "Causal Discovery. How do we learn a causal model? Refs: Biometrics (2024) • Biometrics (2021)\nCausal Artificial Intelligence. Causal reasoning is key to enhance general AI; DAGs provide a practical framework. Tutorial (PDF)\nReplication Studies. Was a beneficial treatment effect truly reproduced in follow-up studies? Refs: TEST (2025) • Psychological Methods (2024)\nBayesian Experimental Design. Using priors/Bayes factors to plan studies for model discrimination and power. Refs: Statistical Science (2024) • TEST (2023)\nBayesian Mendelian Randomization under Heterogeneity. Cluster heterogeneous causal effects and handle pleiotropy with robust priors."
+    "text": "Causal Discovery. How do we learn a causal model? Refs: Biometrics (2024) • Biometrics (2021)\nCausal Artificial Intelligence. Causal reasoning is key to enhance general AI; DAGs provide a practical framework. Tutorial (PDF)\nReplication Studies. Was a treatment effect truly reproduced in follow-up studies? Refs: TEST (2025) • Psychological Methods (2024)\nBayesian Experimental Design. Using priors/Bayes factors to plan studies for causal discovery and model discrimination. Refs: Statistical Science (2024) • TEST (2023)\nBayesian Mendelian Randomization under Heterogeneity. Cluster heterogeneous causal effects and handle pleiotropy with robust priors. (Sorry no paper, yet)"
   },
   {
     "objectID": "research.html#selected-resources",
@@ -46,28 +46,28 @@
     "href": "index.html",
     "title": "Guido Consonni",
     "section": "",
-    "text": "Formerly Professor of Statistics at Università Cattolica del Sacro Cuore (retired November 2024), where I currently serve as Adjunct Professor of Statistical Inference.\n\nCV Google Scholar"
+    "text": "Formerly Full Professor of Statistics at Università Cattolica del Sacro Cuore. Still passionate about Bayesian Statistics and its role in advancing knowledge.\n\nCV Google Scholar"
   },
   {
     "objectID": "shortbio.html",
     "href": "shortbio.html",
     "title": "Short Bio",
     "section": "",
-    "text": "My expertise is in Statistics, with a focus on Bayesian inference and causal reasoning.\n\n\n\nUniversità Cattolica del Sacro Cuore (Milan)\n\n2024–present: Adjunct Professor (Statistical Inference)\n\n2011–2024: Full Professor of Statistics\n\n2019–2024: Head, Department of Statistical Sciences\n\nPrevious Institutions\n\n1990–2011: Full Professor of Statistics, Università di Pavia\n\n1987–1990: Associate Professor of Statistics, Università L. Bocconi, Milan\n\n\n\n\n\nMain topics: Bayesian statistics; graphical models; causal inference; Bayesian experimental design; replication studies; causal Artificial Intelligence.\nAuthor of 50+ papers in peer-reviewed journals.\nORCID: 0000-0002-1252-5926\n\n\n\n\nMy teaching experience spans undergraduate, graduate, and doctoral courses in Statistics. I have also held leadership roles as coordinator of master’s-level programs and as a member of a PhD steering committee.\n\n\n\n\n\nFellow, International Society for Bayesian Analysis\n\nElected Member, International Statistical Institute\n\n\n\n\n\n\nRoyal Statistical Society\n\nInstitute of Mathematical Statistics\n\nAmerican Statistical Association\n\nInternational Statistical Institute\n\nInternational Society for Bayesian Analysis\n\nSocietà Italiana di Statistica"
+    "text": "I have a long-standing activity in Bayesian methodology as a principled framework for learning from data. I am also engaged in causal reasoning to address real-world problems.\n\n\n\nUniversità Cattolica del Sacro Cuore (Milan)\n\n2024–present: Adjunct Professor (Statistical Inference)\n\n2011–2024: Full Professor of Statistics (retired November 1, 2024)\n2019–2024: Head, Department of Statistical Sciences\n\nPrevious Institutions\n\n1990–2011: Full Professor of Statistics, Università di Pavia\n\n1987–1990: Associate Professor of Statistics, Università L. Bocconi, Milan\n\n\n\n\n\nOver the years I have worked on many aspects of Bayesian statistics, from priors, model choice, and hierarchical models to graphical models and Bayesian networks. More recently my research has focused on experimental design, replication studies and especially causal inference based on Directed Acyclic Graphs. I am also keenly interested in leveraging causal reasoning to foster more robust and explainable AI systems.\n\n\n\n\nMy teaching experience spans undergraduate, graduate, and doctoral courses in Statistics. I have also held leadership roles as coordinator of master’s-level programs and as a member of a PhD steering committee.\n\n\n\n\n\nFellow, International Society for Bayesian Analysis\n\nElected Member, International Statistical Institute\n\n\n\n\n\n\nRoyal Statistical Society\n\nInstitute of Mathematical Statistics\n\nAmerican Statistical Association\n\nInternational Statistical Institute\n\nInternational Society for Bayesian Analysis\n\nSocietà Italiana di Statistica"
   },
   {
     "objectID": "shortbio.html#academic-appointments",
     "href": "shortbio.html#academic-appointments",
     "title": "Short Bio",
     "section": "",
-    "text": "Università Cattolica del Sacro Cuore (Milan)\n\n2024–present: Adjunct Professor (Statistical Inference)\n\n2011–2024: Full Professor of Statistics\n\n2019–2024: Head, Department of Statistical Sciences\n\nPrevious Institutions\n\n1990–2011: Full Professor of Statistics, Università di Pavia\n\n1987–1990: Associate Professor of Statistics, Università L. Bocconi, Milan"
+    "text": "Università Cattolica del Sacro Cuore (Milan)\n\n2024–present: Adjunct Professor (Statistical Inference)\n\n2011–2024: Full Professor of Statistics (retired November 1, 2024)\n2019–2024: Head, Department of Statistical Sciences\n\nPrevious Institutions\n\n1990–2011: Full Professor of Statistics, Università di Pavia\n\n1987–1990: Associate Professor of Statistics, Università L. Bocconi, Milan"
   },
   {
     "objectID": "shortbio.html#scientific-research",
     "href": "shortbio.html#scientific-research",
     "title": "Short Bio",
     "section": "",
-    "text": "Main topics: Bayesian statistics; graphical models; causal inference; Bayesian experimental design; replication studies; causal Artificial Intelligence.\nAuthor of 50+ papers in peer-reviewed journals.\nORCID: 0000-0002-1252-5926"
+    "text": "Over the years I have worked on many aspects of Bayesian statistics, from priors, model choice, and hierarchical models to graphical models and Bayesian networks. More recently my research has focused on experimental design, replication studies and especially causal inference based on Directed Acyclic Graphs. I am also keenly interested in leveraging causal reasoning to foster more robust and explainable AI systems."
   },
   {
     "objectID": "shortbio.html#teaching",
